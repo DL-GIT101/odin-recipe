@@ -1,0 +1,31 @@
+* {
+    background-color: orange;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul .recipe {
+    font-size: 24px;
+    color: yellow;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+ul {
+    font-weight: bold;
+}
+
+ol {
+    font-size: 20px;
+}
